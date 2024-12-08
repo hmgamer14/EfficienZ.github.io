@@ -1,6 +1,6 @@
 # EfficienZ.github.io
 
-Credits to https://www.youtube.com/watch?v=1L5zPhhUVic
+Credits to https://www.youtube.com/watch?v=1L5zPhhUVic for the web browser
 
 We also used Chatgpt to fix bugs and errors.
 
