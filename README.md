@@ -3,8 +3,11 @@
 Inportant: Make sure you have pyhton downlaod and run this commands on cmd(Command Prompt) before running the python application:
 
 pip install tkinterweb
+
 pip install tkinter
+
 pip install webbrowser
+
 pip install simple-webbrowser
 
 Website: https://hmgamer14.github.io/EfficienZ.github.io/
