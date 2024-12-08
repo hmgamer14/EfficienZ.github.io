@@ -4,7 +4,6 @@ import tkinterweb
 from tkinter import *
 from PIL import ImageTk,Image
 from datetime import datetime
-import webbrowser
 
 
 def open_link(url2):
