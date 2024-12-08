@@ -1,5 +1,7 @@
 ## Credits to https://www.youtube.com/watch?v=1L5zPhhUVic 
 ## We also used ChatGpt to fix bugs and errors.
+
+
 import tkinterweb
 from tkinter import *
 from PIL import ImageTk,Image
@@ -29,6 +31,12 @@ sidebar.pack(side="left", fill="y")
 
 
 button_style = {"bg": "#4CAF50", "fg": "white", "width": 5, "height": 3}
+
+
+logo_Button_Image = Image.open("images/Logo2.png")
+logo_Button_Image2 = ImageTk.PhotoImage(logo_Button_Image)
+logo_button = Button(sidebar, image=logo_Button_Image2, text="Logo", command=lambda: open_link("https://google.com"), width=50, height=50, bg="#373737", bd=0)
+logo_button.pack(pady=10)
 
 
 gmail_Button_Image = Image.open("images/Gmail.png")
@@ -288,3 +296,4 @@ task_manager = TaskManager(window)
 
 # Run the Tkinter event loop
 window.mainloop()
+
