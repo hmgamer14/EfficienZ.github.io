@@ -1,6 +1,6 @@
 # EfficienZ.github.io
 
-Inportant: Make sure you have pyhton downlaoded and run this commands on cmd(Command Prompt) before running the python application:
+Inportant: Make sure you have pyhton downlaoded and run these commands on cmd(Command Prompt) before running the python application:
 
 pip install tkinterweb
 
